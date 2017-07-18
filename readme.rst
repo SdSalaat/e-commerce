@@ -15,6 +15,12 @@ Or a **Pull Request** would be welcome.
 
 **Live Project Demo -** https://ecommerce-web.000webhostapp.com/
 
+**Quick Access :**
+  For accessing Admin features
+ Admin id = **as@as.com** password : **admin**
+ 
+  For accessing user/Restricted features
+ user id = **ms@ms.com** password : **user**
 
 ###################
 What is CodeIgniter
