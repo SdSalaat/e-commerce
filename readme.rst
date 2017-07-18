@@ -1,6 +1,6 @@
-E-Commerce
+ **E-Commerce**
 
-This Website is been built on PHP Framework Codeigniter This Website features are : 
+ This Website is been built on PHP Framework Codeigniter This Website features are : 
 
 - Full Responsive
 - Admin Panel 
