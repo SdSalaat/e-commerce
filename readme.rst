@@ -15,6 +15,17 @@ Or a **Pull Request** would be welcome.
 
 **Live Project Demo -** https://ecommerce-web.000webhostapp.com/
 
+**Installation:**
+   Goto : 
+   application/config/config.php
+   
+ edit **base_url** to your path 
+ 
+   Upload project.sql file in phpmyadmin
+   
+**Enjoy**
+
+
 **Quick Access :**
   For accessing Admin features
  Admin id = **as@as.com** password : **admin**
