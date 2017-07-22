@@ -53,8 +53,8 @@ include "include/head_admin.php";
         }
 
         if(isset($edPro)){
-            foreach ($edPro as $row){
-                ?>
+        foreach ($edPro as $row){
+        ?>
 
         <div class="form-group">
             <label for="">Product Name:</label>
@@ -77,9 +77,9 @@ include "include/head_admin.php";
             <textarea class="form-control" name="product_des" id="exampleTextarea" rows="5"><?php echo set_value('pro_name', $row->product_des); ?></textarea>
         </div>
 
-        <label for="">Upload new Picture:</label><br/>
-        <input type="file" name="userfile" size="20" value="<?php echo base_url() ?>uploads/<?php echo $row->file_name; ?>" />
-        <br />
+        <!--<label for="">Upload new Picture:</label><br/>
+        <input type="file" name="userfile" size="20" value="<?php /*echo base_url() */?>uploads/<?php /*echo $row->file_name; */?>" />
+        <br />-->
 
         <label for="">Previous Picture:</label><br/>
         <img height="350px" width="350px" src="<?php echo base_url() ?>uploads/<?php echo $row->file_name ?>">
@@ -93,11 +93,11 @@ include "include/head_admin.php";
 <?php
 form_close();
 ?>
-        <?php
-            }
-        }
+<?php
+}
+}
 
-        ?>
+?>
 
 
 <!-- Latest jQuery form server -->

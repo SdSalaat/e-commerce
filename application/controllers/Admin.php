@@ -124,36 +124,30 @@ class Admin extends CI_Controller
 
                 $this->load->library('upload', $config);
 
-                if (!$this->upload->do_upload('userfile')) {
-                    $error = array('error' => $this->upload->display_errors());
+                $pro_name = $_POST['pro_name'];
+                $pro_cat = $_POST['pro_cat'];
+                $pro_price = $_POST['pro_price'];
+                $product_des = $_POST['product_des'];
+                $file_name = $this->upload->data('file_name');
+                $file_path = $this->upload->data('file_path');
+                $file_ext = $this->upload->data('file_ext');
+                $id = $_POST['id'];
 
-                    $this->load->view('edit_pro', $error);
-                } else {
-                    $pro_name = $_POST['pro_name'];
-                    $pro_cat = $_POST['pro_cat'];
-                    $pro_price = $_POST['pro_price'];
-                    $product_des = $_POST['product_des'];
-                    $file_name = $this->upload->data('file_name');
-                    $file_path = $this->upload->data('file_path');
-                    $file_ext = $this->upload->data('file_ext');
-                    $id = $_POST['id'];
+                $data = array(
+                    'product_name' => $pro_name,
+                    'product_category' => $pro_cat,
+                    'product_price' => $pro_price,
+                    'product_des' => $product_des
+                    //'file_name' => $file_name,
+                    //'file_path' => $file_path,
+                    //'file_ext' => $file_ext,
+                );
 
-                    $data = array(
-                        'product_name' => $pro_name,
-                        'product_category' => $pro_cat,
-                        'product_price' => $pro_price,
-                        'product_des' => $product_des,
-                        'file_name' => $file_name,
-                        'file_path' => $file_path,
-                        'file_ext' => $file_ext,
-                    );
+                $this->Admin_model->upd_pro($id, $data);
 
-                    $this->Admin_model->upd_pro($id, $data);
+                $data['suc_mess'] = 'Product Sucessfully Updated';
 
-                    $data['suc_mess'] = 'Product Sucessfully Updated';
-
-                    $this->load->view('edit_pro', $data);
-                }
+                $this->load->view('edit_pro', $data);
             }
         }
         else{

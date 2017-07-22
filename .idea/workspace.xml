@@ -2,10 +2,211 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9b39e57-d530-4317-a961-0132b02dd06d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="$PROJECT_DIR$/application/config/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Shop.php" afterPath="$PROJECT_DIR$/application/controllers/Shop.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/models/Shop_model.php" afterPath="$PROJECT_DIR$/application/models/Shop_model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/shop.php" afterPath="$PROJECT_DIR$/application/views/shop.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/.buildinfo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/DCO.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_downloads/ELDocs.tmbundle.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_images/appflowchart.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_images/smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/basic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/ci-icon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/comment-bright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/comment-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/css/badge_only.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/css/citheme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/css/theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/doctools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/down-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/file.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/images/ci-icon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/js/oldtheme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/minus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/pygments.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/searchtools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/underscore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/up-pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/_static/websupport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/changelog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/contributing/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/caching.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/call_function.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/configuration.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/connecting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/db_driver_reference.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/examples.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/forge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/helpers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/metadata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/queries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/query_builder.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/results.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/transactions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/database/utilities.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/documentation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/alternative_php.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/ancillary_classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/autoloader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/caching.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/cli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/common_functions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/compatibility_functions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/controllers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/core_classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/creating_drivers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/creating_libraries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/credits.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/drivers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/environments.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/errors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/helpers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/hooks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/libraries.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/managing_apps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/models.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/profiling.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/requirements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/reserved_names.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/routing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/security.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/styleguide.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/urls.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/views.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/general/welcome.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/genindex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/array_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/captcha_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/cookie_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/date_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/directory_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/download_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/email_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/file_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/form_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/html_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/inflector_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/language_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/number_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/path_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/security_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/smiley_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/string_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/text_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/typography_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/url_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/helpers/xml_helper.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/downloads.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/troubleshooting.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_120.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_130.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_131.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_132.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_133.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_140.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_141.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_150.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_152.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_153.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_154.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_160.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_161.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_162.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_163.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_170.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_171.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_172.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_200.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_201.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_202.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_203.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_210.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_211.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_212.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_213.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_214.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_220.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_221.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_222.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_223.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_300.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_301.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_302.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_303.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_304.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_305.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_306.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_310.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_311.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_312.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_313.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_314.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrade_b11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/installation/upgrading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/benchmark.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/caching.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/calendar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/cart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/config.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/email.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/encrypt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/encryption.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/file_uploading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/form_validation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/ftp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/image_lib.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/input.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/javascript.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/language.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/loader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/migration.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/parser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/security.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/sessions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/table.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/trackback.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/typography.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/unit_testing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/uri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/user_agent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/xmlrpc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/libraries/zip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/license.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/objects.inv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/appflow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/at_a_glance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/features.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/getting_started.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/goals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/overview/mvc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/searchindex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/tutorial/conclusion.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/tutorial/create_news_items.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/tutorial/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/tutorial/news_section.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide/tutorial/static_pages.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/Admin.php" afterPath="$PROJECT_DIR$/application/controllers/Admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/edit_pro.php" afterPath="$PROJECT_DIR$/application/views/edit_pro.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +220,11 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="375">
               <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
               <folding />
             </state>
@@ -60,21 +261,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Admin.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Admin.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/Admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-146">
-              <caret line="154" column="42" lean-forward="true" selection-start-line="154" selection-start-column="42" selection-end-line="154" selection-end-column="42" />
+            <state relative-caret-position="184">
+              <caret line="166" column="13" lean-forward="true" selection-start-line="166" selection-start-column="13" selection-end-line="166" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add_pro.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/add_pro.php">
+      <file leaf-file-name="edit_pro.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/edit_pro.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-240">
-              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="514">
+              <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,6 +299,7 @@
         <option value="$PROJECT_DIR$/application/models/Shop_model.php" />
         <option value="$PROJECT_DIR$/application/views/shop.php" />
         <option value="$PROJECT_DIR$/application/controllers/Admin.php" />
+        <option value="$PROJECT_DIR$/application/views/edit_pro.php" />
       </list>
     </option>
   </component>
@@ -151,6 +353,7 @@
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -181,6 +384,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -214,32 +423,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500715720019</updated>
-      <workItem from="1500715723064" duration="1400000" />
+      <workItem from="1500715723064" duration="2462000" />
+      <workItem from="1500718659344" duration="111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1400000" />
+    <option name="totallyTimeSpent" value="2573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="673" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -257,7 +467,55 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/application/config/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="375">
+          <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Shop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Shop_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/shop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/add_pro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
           <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
           <folding />
         </state>
@@ -294,7 +552,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/add_pro.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
+        <state relative-caret-position="255">
           <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           <folding />
         </state>
@@ -302,8 +560,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/Admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146">
-          <caret line="154" column="42" lean-forward="true" selection-start-line="154" selection-start-column="42" selection-end-line="154" selection-end-column="42" />
+        <state relative-caret-position="184">
+          <caret line="166" column="13" lean-forward="true" selection-start-line="166" selection-start-column="13" selection-end-line="166" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/edit_pro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
           <folding />
         </state>
       </provider>
