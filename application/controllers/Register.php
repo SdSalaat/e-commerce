@@ -44,6 +44,7 @@ class Register extends CI_Controller
                 'lname' => $lname,
                 'username' => $username,
                 'email' => $email,
+                'status' => "user",
                 'password' => $password
             );
 
