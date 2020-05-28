@@ -13,7 +13,7 @@ Please feel free to report an **Issue** or ask for a **feature** that you want t
 
 Or a **Pull Request** would be welcome. 
 
-**Live Project Demo -** https://ecommerce-web.000webhostapp.com/
+**Live Project Demo -** https://web-ecommerce-store.000webhostapp.com/
 
 **Installation:**
    Goto : 
